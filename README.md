@@ -1,3 +1,16 @@
+# Own Needed Info for This Fork !!!!! (Ortega-Dan/rustlings)
+
+To continue from this repo:\
+Clone it and do:\
+cargo install --force --path .
+
+And continue your work by doing:\
+bash r
+
+
+___
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-90-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
